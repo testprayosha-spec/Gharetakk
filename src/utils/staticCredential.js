@@ -5,6 +5,3 @@ export const appleLoginCredential = {
   serviceId: "",
   redirectURI: ``,
 };
-
-
-
